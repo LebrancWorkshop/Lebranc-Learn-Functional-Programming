@@ -12,6 +12,11 @@
 
 - [[TH: Text] พีชคณิตนามธรรม (Abstract Algebra) (สาขาิชาคณิตศาสตร์ คณะครุศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา)](https://eledu.ssru.ac.th/thanatyod_ja/pluginfile.php/48/block_html/content/Handoutพีชคณิตนามธรรม2564.pdf?fbclid=IwAR0tmufyOxo6gVmZANwwv01blVRcs5lnqTGItXSJ7jPmk6qBKxG0HOa0hBQ)
 - [[EN: Text] Introduction to Abstract Algebra - Math 113 (Alexander Paulin, University of California Berkeley)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf?fbclid=IwAR1LW3K6cIfvdss9w3qSd7WWBj8JpuQJhm-acnW2dZVjA1F4FApwQ6bQgSQ)
+- [[EN: Video Playlist] Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+- [[EN: Video Playlist] Abstract Algebra 1 (Learnifyable)](https://www.youtube.com/playlist?list=PLg8ZEeSiXsjgoQJzRcq60GjK0UrkMsA3-)
+- [[EN: Video Playlist] Abstract Algebra (Michael Penn)](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
+- [[EN: Video Playlist] Abstract Algebra (MathMajor)](https://www.youtube.com/playlist?list=PLVMgvCDIRy1y4JFpnpzEQZ0gRwr-sPTpw)
+- [[EN: Video Playlist] Abstract Algebra (Wrath of Math)](https://www.youtube.com/playlist?list=PLztBpqftvzxVvdVmBMSM4PVeOsE5w1NnN)
 
 ### Category Theory
 

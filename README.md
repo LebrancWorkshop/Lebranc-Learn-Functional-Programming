@@ -1,5 +1,9 @@
 # Functional Programming Learning Resources
 
+## Overview
+This is a repository for learning the topics of Functional Programming and Related Topics (Lambda Calculus, Abstract Algebra, Category Theory, etc.)
+It contains Resource List, Lecture Note (Text File) and Code by Functional Programming Languages.
+
 ## Concept
 
 ### Lambda Calculus

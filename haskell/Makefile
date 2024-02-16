@@ -1,0 +1,2 @@
+run:
+	runghc ./main.hs 

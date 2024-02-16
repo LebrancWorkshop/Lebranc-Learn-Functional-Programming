@@ -1,0 +1,4 @@
+Functional Programming
+- Style of Programming in which the basic method of computation is the application of functions to
+argument
+- One that supports and encourages the functional style. 

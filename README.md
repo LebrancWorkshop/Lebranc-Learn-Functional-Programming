@@ -30,11 +30,13 @@
 - [[EN: Video Playlist] Category Theory (Bartosz Milewski)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [[EN: Video Playlist] What is...category theory? (VisualMath)](https://www.youtube.com/playlist?list=PLuFcVFHMIfhKFQJsilw-W7dVtPprKU3-f)
 - [[EN: Video Playlist] Category theory (Alex Simpson)](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp)
+- [[EN: Video Playlist] Category Theory For Beginners (Richard Southwell)](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)
 - [[EN: Video] A monad is a monoid in the category of endofunctors. Whats the problem? (A Byte of Code)](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
 - [[EN: Video] A Sensible Introduction to Category Theory (Oliver Lugg)](https://www.youtube.com/watch?v=yAi3XWCBkDo)
 - [[EN: Video] 27 Unhelpful Facts About Category Theory (Oliver Lugg)](https://www.youtube.com/watch?v=H0Ek86IH-3Y)
 - [[EN: Video] What is category theory? (Topos Institute)](https://www.youtube.com/watch?v=eXBwU9ieLL0)
 - [[EN: Video] Category Theory: An Introduction to Abstract Nonsense (Feynman's Chicken)](https://www.youtube.com/watch?v=igf04k13jZk)
+- [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
 
 ### Functional Programming
 

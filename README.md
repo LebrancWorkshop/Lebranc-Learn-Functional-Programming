@@ -88,12 +88,14 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] Clojure for Curious People(1): introduction, Clojure compilation and anatomy of Clojure’s syntax (W.S.Kiang)](https://medium.com/@bullrish/clojure-for-curious-people-1-introduction-clojure-compilation-and-anatomy-of-clojures-syntax-a577f575932a)
 - [[EN: Text] Brave Clojure (braveclojure.com)](https://www.braveclojure.com/)
 - [[EN: Text] Clojure from the ground up (aphyr.com)](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [[EN: Video Playlist] Clojure talks from Strange Loop (Strange Loop Conference)](https://www.youtube.com/playlist?list=PLcGKfGEEONaC1LNtrH4YN5PYOlBKlcAbS)
 
 ### Scala
 
 - [[EN: Video Playlist] Scala at Light Speed (Rock the JVM)](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 - [[EN: Video Playlist] Scala Tutorial (ProgrammingKnowledge)](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
 - [[EN: Video Playlist] Scala Tutorial (Learning Journal)](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
+- [[EN: Video Playlist] Scala talks from Strange Loop (Strange Loop Conference)](https://www.youtube.com/playlist?list=PLcGKfGEEONaBRUxzHaRF8MobumfYAXwwe)
 - [[EN: Video] Scala Tutorial Full Course (Telusko)](https://www.youtube.com/watch?v=i9o70PMqMGY)
 - [[EN: Video] Scala Tutorial (Derek Banas)](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 - [[EN: Video] Scala Tutorial for Beginners (ProgrammingKnowledge)](https://www.youtube.com/watch?v=OfngvXKNkpM)

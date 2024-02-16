@@ -1,0 +1,54 @@
+Haskell Programming Language
+
+Data Type:
+- Int: จำนวนเต็ม
+- Float: จำนวนทศนิยม
+- Bool: ค่าความจริง (True, False)
+- Char: เก็บตัวอักษร (Alphabet)
+
+Operator:
+- Logical Operator: &&, ||, not
+- Algebraic Operator: +, -, *, / (For Float), ^
+- Integer Operator: div, mod
+- Comparison Operator: ==, /=, <, >, <=, >=
+
+Condition:
+=> if <Expression> then <Expression is Truthy> else <Expression is Falsy>
+
+Guard Expression => Another Syntax for Condition (Especially Multiple Condition)
+=> <Function> <Arguments...>
+  | <Expression 1> = <Expression 1 if true>
+  | <Expression 2> = <Expression 2 if true>
+  | ...
+  | <Expression n> = <Expression n if true>
+  | otherwise = <Expression if all above expressions is false>
+
+Local Definition:
+=> <Function> <Arguments...> = <Expression with Local Variable in Expression Term>
+  where
+    <Local Variable 1> = <Expression 1>
+    <Local Variable 2> = <Expression 2>
+    ...
+    <Local Variable n> = <Expression n>
+
+Use Built-In Function from Prefix to Infix:
+  Prefix (Normal Case) => <Function> <Expression 1> <Expression 2>
+  Infix (Use Backtick) => <Expression 1> `<Function>` <Expression 2>
+
+Use Infix Operator as Prefix:
+  Infix (Normal Case) => <Expression 1> <Operator> <Expression 2>
+  Prefix (Use Parentheses) => (<Operator>) <Expression 1> <Expression 2>
+
+Pattern Matching => Another Syntax for Condition:
+  =>  <Function> <Arguments Pattern 1...> = <Expression if argument is match with Pattern 1>
+      <Function> <Arguments Pattern 2...> = <Expression if argument is match with Pattern 2>
+      ...
+      <Function> <Arguments Pattern n...> = <Expression if argument is match with Pattern n>
+  ** ในกรณีที่ไม่ต้องการใช้ Argument ใดใน Pattern นึง ให้ใช้เครื่องหมาย "_" (Underscore) แทน
+
+
+Recursion => How to loop in Haskell:
+  => <Function> <Arguments...>
+      | <Base Case> = <Expression if Base Case is True>
+      | otherwise = <Expression with Recursive Call>
+

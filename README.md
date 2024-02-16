@@ -7,11 +7,14 @@
 - [[TH: Text] แนะนำ LAMBDA CALCULUS และ FUNCTIONAL LANGUAGES (kitty.in.th)](https://kitty.in.th/index.php/articles/lambda-calculus-and-functional-languages/)
 - [[TH: Text] Lambda Calculus ~ พื้นฐานสู่ Functional Programming (tamemo.com)](https://www.tamemo.com/post/153/lambda-calculus/)
 - [[EN: Video Playlist] Lambda Calculus (David Franz)](https://www.youtube.com/playlist?list=PLBbCu3SnCcwKIgSozQQkxa6I7aNbKD0pz)
+- [[EN: Video Playlist] Lambda Calculus (Robert Joseph Panganiban)](https://www.youtube.com/playlist?list=PLDAqk5znTEXeQwDstVk5uzsNmj3RTMlVg)
+- [[EN: Video Playlist] Lambda Calculus (NiceMeTube)](https://www.youtube.com/playlist?list=PL4A05CF0478DAD704)
 - [[EN: Video] Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript (Fullstack Academy)](https://www.youtube.com/watch?v=3VQ382QG-y4)
 - [[EN: Video] Why function are turing complete (Lambda Calculas) (A Byte of Code)](https://www.youtube.com/watch?v=m32kbFXBRR0)
 - [[EN: Video] Lambda Calculus (Computerphile)](https://www.youtube.com/watch?v=eis11j_iGMs)
 - [[EN: Video] Lambda Calculus (Truttle1)](https://www.youtube.com/watch?v=RsO_sfHtXCM)
 - [[EN: Video] Lambda Calculus: The foundation of functional programming, and the simplest programming language (Tony Zhang)](https://www.youtube.com/watch?v=_n4LIt2WPzE)
+- [[EN: Video] What is Lambda Calculus and why? (Yana the Contrarian)](https://www.youtube.com/watch?v=z5ReaU4npoE)
 
 ### Abstract Algebra
 

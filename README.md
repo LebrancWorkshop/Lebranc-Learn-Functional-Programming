@@ -40,6 +40,7 @@
 - [[TH: Text] FP(06): Recursive Function ฟังก์ชันเวียนเกิด, เขียนลูปไม่ได้ทำยังไง? มาเขียนฟังก์ชันเรียกตัวเองแทนกันเถอะ! (tamemo.com)](https://www.tamemo.com/post/163/fp-06-recursive-function/)
 - [[TH: Text] มารู้จักกับ Functional Programming สิ่งที่คุณต้องรู้ในตอนนี้กันเถอะ (tamemo.com)](https://www.tamemo.com/post/80/functional-programming-should-be-your/)
 - [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
+- [[TH: Video] Functional Programming กับพี่รูฟ ODDS (Datarockie)](https://www.youtube.com/watch?v=r6_Sg-SQmng)
 - [[EN: Text] Functional Programming resources I’ve found useful (I'Boss Potiwarakorn)](https://iboss.medium.com/functional-programming-resources-ive-found-useful-ce25b2279eb7)
 - [[EN: Video] What is a Monad? (Computerphile)](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 

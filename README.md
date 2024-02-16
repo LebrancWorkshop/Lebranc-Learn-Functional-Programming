@@ -69,6 +69,9 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ### Haskell
 
+- [[TH: Text] Functional Programming ด้วย Haskell , Part 1 : Intro (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-1-intro-3e6341bf6749)
+- [[TH: Text] Functional Programming ด้วย Haskell , Part 2 : Guards, Local Definition (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-2-guards-local-definition-4210240cce18)
+- [[TH: Text] Functional Programming ด้วย Haskell ; Part 3 : Pattern Matching และ Recursion (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-3-pattern-matching-%E0%B9%81%E0%B8%A5%E0%B8%B0-recursion-2e9408b2683c)
 - [[TH: Video Playlist] ปูพื้นฐาน Haskell เพื่อทำความเข้าใจ Plutus และ Marlowe | Haskell for Plutus & Marlowe (Codanar โคดาน่าร์ - คาร์ดาโน่)](https://www.youtube.com/playlist?list=PLWI_7XSoI_mIYKIWmEP_01bdxl4ixSjAn)
 - [[TH: Video] ภาษา Haskell เบื้องต้น](https://www.youtube.com/watch?v=GrRboRMqSM8)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)

@@ -31,7 +31,6 @@
 - [[TH: Text] FP(05): Lazy Evaluation ขี้เกียจไว้ก่อนแล้วดีเอง?! (tamemo.com)](https://www.tamemo.com/post/162/fp-05-lazy-evaluation/)
 - [[TH: Text] FP(06): Recursive Function ฟังก์ชันเวียนเกิด, เขียนลูปไม่ได้ทำยังไง? มาเขียนฟังก์ชันเรียกตัวเองแทนกันเถอะ! (tamemo.com)](https://www.tamemo.com/post/163/fp-06-recursive-function/)
 - [[TH: Text] มารู้จักกับ Functional Programming สิ่งที่คุณต้องรู้ในตอนนี้กันเถอะ (tamemo.com)](https://www.tamemo.com/post/80/functional-programming-should-be-your/)
-- [[TH: Text] FP(03): Map Filter Reduce และเพื่อนๆ พระเอกแห่งโลก Functional (tamemo.com)](https://www.tamemo.com/post/159/fp-03-map-filter-reduce/)
 - [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
 
 ## Functional Programming Language

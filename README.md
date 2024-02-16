@@ -15,11 +15,24 @@
 
 ### Category Theory
 
-- [[TH: Text] https://www.tamemo.com/post/154/category-theory/ (tamemo.com)](https://www.tamemo.com/post/154/category-theory/)
+- [[TH: Text] Category Theory (for Programmer!): บทนำ~จากคณิตศาสตร์สู่ภาษาโปรแกรม (tamemo.com)](https://www.tamemo.com/post/154/category-theory/)
+- [[TH: Text] Category Theory (for Programmer!) 2: Functor~คืออะไร (tamemo.com)](https://www.tamemo.com/post/155/category-theory-2/)
+- [[TH: Text] Category และ Product | Category Theory for Programming Part 1 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-1-product/)
+- [[TH: Text] Co-Product ในการเขียนโปรแกรม | Category Theory for Programming Part 2 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-2-coproduct/)
+- [[EN: Text] Category Theory for Programmers (Bartosz Milewski)](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ### Functional Programming
 
 - [[TH: Text] FP(00) – บทนำ, ก้าวแรกสู่โลกแห่ง Functional Programming (tamemo.com)](https://www.tamemo.com/post/156/fp-00-intro/)
+- [[TH: Text] FP(01) – Pure, First-Class, High-Order: พื้นฐานแห่ง Functional Programming (tamemo.com)](https://www.tamemo.com/post/157/fp-01-fundamental/)
+- [[TH: Text] FP(02): Lambda Function and Closure ฟังก์ชันทันใจและพื้นที่ปิดล้อม! (tamemo.com)](https://www.tamemo.com/post/158/fp-02-lambda-and-closure/)
+- [[TH: Text] FP(03): Map Filter Reduce และเพื่อนๆ พระเอกแห่งโลก Functional (tamemo.com)](https://www.tamemo.com/post/159/fp-03-map-filter-reduce/)
+- [[TH: Text] FP(04): โครสร้างแบบ Pair, Either และ List Comprehension การสร้างลิสต์ฉบับฟังก์ชันนอล (tamemo.com)](https://www.tamemo.com/post/160/fp-04-pair-either-list-comprehension/)
+- [[TH: Text] FP(05): Lazy Evaluation ขี้เกียจไว้ก่อนแล้วดีเอง?! (tamemo.com)](https://www.tamemo.com/post/162/fp-05-lazy-evaluation/)
+- [[TH: Text] FP(06): Recursive Function ฟังก์ชันเวียนเกิด, เขียนลูปไม่ได้ทำยังไง? มาเขียนฟังก์ชันเรียกตัวเองแทนกันเถอะ! (tamemo.com)](https://www.tamemo.com/post/163/fp-06-recursive-function/)
+- [[TH: Text] มารู้จักกับ Functional Programming สิ่งที่คุณต้องรู้ในตอนนี้กันเถอะ (tamemo.com)](https://www.tamemo.com/post/80/functional-programming-should-be-your/)
+- [[TH: Text] FP(03): Map Filter Reduce และเพื่อนๆ พระเอกแห่งโลก Functional (tamemo.com)](https://www.tamemo.com/post/159/fp-03-map-filter-reduce/)
+- [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
 
 ## Functional Programming Language
 

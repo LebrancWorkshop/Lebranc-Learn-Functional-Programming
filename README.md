@@ -38,6 +38,8 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] Category และ Product | Category Theory for Programming Part 1 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-1-product/)
 - [[TH: Text] Co-Product ในการเขียนโปรแกรม | Category Theory for Programming Part 2 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-2-coproduct/)
 - [[EN: Text] Category Theory for Programmers (Bartosz Milewski)](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [[EN: Text] Category Theory (nLab)](https://ncatlab.org/nlab/show/category+theory)
+- [[EN: Text] Category (nLab)](https://ncatlab.org/nlab/show/category)
 - [[EN: Text] From design patterns to category theory (blog.ploeh.dk)](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 - [[EN: Video Playlist] Category Theory (Bartosz Milewski)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [[EN: Video Playlist] What is...category theory? (VisualMath)](https://www.youtube.com/playlist?list=PLuFcVFHMIfhKFQJsilw-W7dVtPprKU3-f)

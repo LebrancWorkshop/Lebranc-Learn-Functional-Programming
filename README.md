@@ -7,7 +7,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ## Concept
 
-### Lambda Calculus
+### [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 
 - [[TH: Text] แนะนำ LAMBDA CALCULUS และ FUNCTIONAL LANGUAGES (kitty.in.th)](https://kitty.in.th/index.php/articles/lambda-calculus-and-functional-languages/)
 - [[TH: Text] Lambda Calculus ~ พื้นฐานสู่ Functional Programming (tamemo.com)](https://www.tamemo.com/post/153/lambda-calculus/)
@@ -21,7 +21,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Lambda Calculus: The foundation of functional programming, and the simplest programming language (Tony Zhang)](https://www.youtube.com/watch?v=_n4LIt2WPzE)
 - [[EN: Video] What is Lambda Calculus and why? (Yana the Contrarian)](https://www.youtube.com/watch?v=z5ReaU4npoE)
 
-### Abstract Algebra
+### [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
 - [[TH: Text] พีชคณิตนามธรรม (Abstract Algebra) (สาขาิชาคณิตศาสตร์ คณะครุศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา)](https://eledu.ssru.ac.th/thanatyod_ja/pluginfile.php/48/block_html/content/Handoutพีชคณิตนามธรรม2564.pdf?fbclid=IwAR0tmufyOxo6gVmZANwwv01blVRcs5lnqTGItXSJ7jPmk6qBKxG0HOa0hBQ)
 - [[EN: Text] Introduction to Abstract Algebra - Math 113 (Alexander Paulin, University of California Berkeley)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf?fbclid=IwAR1LW3K6cIfvdss9w3qSd7WWBj8JpuQJhm-acnW2dZVjA1F4FApwQ6bQgSQ)
@@ -31,7 +31,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Abstract Algebra (MathMajor)](https://www.youtube.com/playlist?list=PLVMgvCDIRy1y4JFpnpzEQZ0gRwr-sPTpw)
 - [[EN: Video Playlist] Abstract Algebra (Wrath of Math)](https://www.youtube.com/playlist?list=PLztBpqftvzxVvdVmBMSM4PVeOsE5w1NnN)
 
-### Category Theory
+### [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 
 - [[TH: Text] Category Theory (for Programmer!): บทนำ~จากคณิตศาสตร์สู่ภาษาโปรแกรม (tamemo.com)](https://www.tamemo.com/post/154/category-theory/)
 - [[TH: Text] Category Theory (for Programmer!) 2: Functor~คืออะไร (tamemo.com)](https://www.tamemo.com/post/155/category-theory-2/)
@@ -50,7 +50,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Category Theory: An Introduction to Abstract Nonsense (Feynman's Chicken)](https://www.youtube.com/watch?v=igf04k13jZk)
 - [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
 
-### Functional Programming
+### [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 - [[TH: Text] FP(00) – บทนำ, ก้าวแรกสู่โลกแห่ง Functional Programming (tamemo.com)](https://www.tamemo.com/post/156/fp-00-intro/)
 - [[TH: Text] FP(01) – Pure, First-Class, High-Order: พื้นฐานแห่ง Functional Programming (tamemo.com)](https://www.tamemo.com/post/157/fp-01-fundamental/)
@@ -67,13 +67,14 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ## Functional Programming Language
 
-### Haskell
+### [Haskell](https://www.haskell.org/)
 
 - [[TH: Text] Functional Programming ด้วย Haskell , Part 1 : Intro (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-1-intro-3e6341bf6749)
 - [[TH: Text] Functional Programming ด้วย Haskell , Part 2 : Guards, Local Definition (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-2-guards-local-definition-4210240cce18)
 - [[TH: Text] Functional Programming ด้วย Haskell ; Part 3 : Pattern Matching และ Recursion (Mutinan Phaohing)](https://medium.com/@muitsfriday/functional-programming-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-haskell-part-3-pattern-matching-%E0%B9%81%E0%B8%A5%E0%B8%B0-recursion-2e9408b2683c)
 - [[TH: Video Playlist] ปูพื้นฐาน Haskell เพื่อทำความเข้าใจ Plutus และ Marlowe | Haskell for Plutus & Marlowe (Codanar โคดาน่าร์ - คาร์ดาโน่)](https://www.youtube.com/playlist?list=PLWI_7XSoI_mIYKIWmEP_01bdxl4ixSjAn)
 - [[TH: Video] ภาษา Haskell เบื้องต้น](https://www.youtube.com/watch?v=GrRboRMqSM8)
+- [[EN: Text] Haskell Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/haskell/)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [[EN: Video Playlist] Haskell for Imperative Programmers (Philipp Hagenlocher)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [[EN: Video Playlist] Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)
@@ -83,15 +84,17 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Haskell in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=Qa8IfEeBJqk)
 - [[EN: Video] Functional Programming & Haskell (Computerphile)](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 
-### Clojure
+### [Clojure](https://clojure.org/)
 
 - [[TH: Text] Clojure for Curious People(1): introduction, Clojure compilation and anatomy of Clojure’s syntax (W.S.Kiang)](https://medium.com/@bullrish/clojure-for-curious-people-1-introduction-clojure-compilation-and-anatomy-of-clojures-syntax-a577f575932a)
+- [[EN: Text] Clojure Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/clojure)
 - [[EN: Text] Brave Clojure (braveclojure.com)](https://www.braveclojure.com/)
 - [[EN: Text] Clojure from the ground up (aphyr.com)](https://aphyr.com/tags/Clojure-from-the-ground-up)
 - [[EN: Video Playlist] Clojure talks from Strange Loop (Strange Loop Conference)](https://www.youtube.com/playlist?list=PLcGKfGEEONaC1LNtrH4YN5PYOlBKlcAbS)
 
-### Scala
+### [Scala](https://www.scala-lang.org/)
 
+- [[EN: Text] Scala Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/scala)
 - [[EN: Video Playlist] Scala at Light Speed (Rock the JVM)](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 - [[EN: Video Playlist] Scala Tutorial (ProgrammingKnowledge)](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
 - [[EN: Video Playlist] Scala Tutorial (Learning Journal)](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
@@ -100,13 +103,15 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Scala Tutorial (Derek Banas)](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 - [[EN: Video] Scala Tutorial for Beginners (ProgrammingKnowledge)](https://www.youtube.com/watch?v=OfngvXKNkpM)
 
-### F#
+### [F#](https://fsharp.org/)
 
+- [[EN: Text] F# Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/fsharp)
 - [[EN: Text] F# for Fun and Profit (fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/site-contents/)
 - [[EN: Video Playlist] F# for Beginners (dotnet)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUFghYOp89baYFBTGxUkC7Z)
 
-### Elixir
+### [Elixir](https://elixir-lang.org/)
 
+- [[EN: Text] Elixir Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/elixir)
 - [[EN: Video Playlist] Intro to Elixir (Tensor Programming)](https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2)
 - [[EN: Video Playlist] Elixir Basics (Elixir Mentor)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB)
 - [[EN: Video] Functional Programming with Elixir - Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=IiIgm_yaoOA)
@@ -114,8 +119,9 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Elixir in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=R7t7zca8SyM)
 - [[EN: Video] Elixir & Phoenix Fundamentals Full Course For Beginners (Elixirprogrammer)](https://www.youtube.com/watch?v=gRQIPvDFuts)
 
-### Javascript / Typescript
+### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 
+- [[EN: Text] Typescript Handbook (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/)
 - [[EN: Course] Professor Frisby Introduces Composable Functional JavaScript (egghead.io)](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 - [[EN: Video Playlist] Functional Programming with Typescript (Web Village Voyage)](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 - [[EN: Video Playlist] fp-ts Tutorial (Functional Programming in TypeScript) (MrFunctor)](https://www.youtube.com/playlist?list=PLUMXrUa_EuePN94nJ2hAui5nWDj8RO3lH)

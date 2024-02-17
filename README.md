@@ -63,6 +63,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
 - [[TH: Video] Functional Programming กับพี่รูฟ ODDS (Datarockie)](https://www.youtube.com/watch?v=r6_Sg-SQmng)
 - [[EN: Text] Functional Programming resources I’ve found useful (I'Boss Potiwarakorn)](https://iboss.medium.com/functional-programming-resources-ive-found-useful-ce25b2279eb7)
+- [[EN: Text] SOLID: the next step is Functional (blog.ploeh.dk)](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [[EN: Video] What is a Monad? (Computerphile)](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 ## Functional Programming Language
@@ -75,6 +76,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Video Playlist] ปูพื้นฐาน Haskell เพื่อทำความเข้าใจ Plutus และ Marlowe | Haskell for Plutus & Marlowe (Codanar โคดาน่าร์ - คาร์ดาโน่)](https://www.youtube.com/playlist?list=PLWI_7XSoI_mIYKIWmEP_01bdxl4ixSjAn)
 - [[TH: Video] ภาษา Haskell เบื้องต้น](https://www.youtube.com/watch?v=GrRboRMqSM8)
 - [[EN: Text] Haskell Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/haskell/)
+- [[EN: Text] Learn You a Haskell for Great Good! (learnyouahaskell.com)](https://learnyouahaskell.com/chapters)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [[EN: Video Playlist] Haskell for Imperative Programmers (Philipp Hagenlocher)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [[EN: Video Playlist] Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)

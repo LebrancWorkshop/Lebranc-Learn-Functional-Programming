@@ -4,8 +4,27 @@ const I = x => x; // Idiot (I-Combinator) == Identity Function
 const K = x => y => x; // Kestrel (K-Combinator)
 const KI = x => y => y; // Kite (KI-Combinator)
 const C = f => x => y => f(y)(x); // Cardinal (C-Combinator)
+const T = a => b => b(a); // Thrush (T-Combinator)
 const B = f => g => x => f(g(x)); // Bluebird (B-Combinator)
 const V = a => b => f => f(a)(b); // Vireo (V-Combinator)
+const H = a => b => c => a(b)(c)(b); // Hummingbird (H-Combinator)
+const E = a => b => c => d => e => a(b(c(d)(e))); // Eagle (E-Combinator)
+const L = a => b => a(b(b)); // Lark (L-Combinator)
+const O = a => b => b(a(b)); // Owl (O-Combinator)
+const R = a => b => c => b(c)(a); // Robin (R-Combinator)
+const S = a => b => c => a(c)(b(c)); // Starling (S-Combinator)
+const W = a => b => a(b)(b); // Warbler (W-Combinator)
+const Q = a => b => c => b(a(c)); // Queer (Q-Combinator)
+const F = a => b => c => c(b)(a); // Finch (F-Combinator)
+const G = a => b => c => d => a(d(b(c))); // Goldfinch (G-Combinator)
+const D = a => b => c => d => a(b(c(d))); // Dove (D-Combinator)
+const A = a => b => a(b); // Apply (A-Combinator)
+const BB = a => b => c => d => a(b(c)(d)); // Blackbird (BB-Combinator)
+const P = a => b => c => d => a(b(d))(c(d)); // Phoenix (P-Combinator)
+const Y = a => (b => b(b))(b => a(c => b(b)(c))); // Why (Y-Combinator) == Y-Fixed Point
+const Z = a => M(b => a(M(b))); // Z-Fixed Point
+const U = a => b => b(a(a)(b)); // Turing (U-Combinator)
+const Psi = a => b => c => d => a(b(c))(b(d)); // Psi (Ψ-Combinator)
 
 // Boolean Algebra
 const Tr = K; // True (Boolean) == Kestrel (Combonator)

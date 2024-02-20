@@ -4,7 +4,7 @@ Data Type:
 - Int: จำนวนเต็ม
 - Integer: Bigger Int
 - Float: จำนวนทศนิยม
-- Double: Bigger Float 
+- Double: Bigger Float
 - Bool: ค่าความจริง (True, False)
 - Char: เก็บตัวอักษร (Alphabet)
 
@@ -33,6 +33,14 @@ Local Definition:
     ...
     <Local Variable n> = <Expression n>
 
+Let...In
+=> <Function> <Arguments...> =
+  let <Variable 1> = <Expression 1>
+      <Variable 2> = <Expression 2>
+      ...
+      <Variable n> = <Expression n>
+  in <Expression with Local Variable in Expression Term>
+
 Use Built-In Function from Prefix to Infix:
   Prefix (Normal Case) => <Function> <Expression 1> <Expression 2>
   Infix (Use Backtick) => <Expression 1> `<Function>` <Expression 2>
@@ -53,4 +61,9 @@ Recursion => How to loop in Haskell:
   => <Function> <Arguments...>
       | <Base Case> = <Expression if Base Case is True>
       | otherwise = <Expression with Recursive Call>
+
+List: Collection of Same Type Element
+  <List Variable> :: [<Element Type>]
+  - Empty List: []
+  - Prepend: <Element> : <List> (Add Element to List to The First Index)
 

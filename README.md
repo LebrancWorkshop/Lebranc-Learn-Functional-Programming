@@ -11,11 +11,17 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 - [[TH: Text] แนะนำ LAMBDA CALCULUS และ FUNCTIONAL LANGUAGES (kitty.in.th)](https://kitty.in.th/index.php/articles/lambda-calculus-and-functional-languages/)
 - [[TH: Text] Lambda Calculus ~ พื้นฐานสู่ Functional Programming (tamemo.com)](https://www.tamemo.com/post/153/lambda-calculus/)
+- [[EN: Text] A curated list of combinators (Github: @loophp)](https://github.com/loophp/combinator)
+- [[EN: Text] Combinator Birds (angelfire.com)](https://www.angelfire.com/tx4/cus/combinator/birds.html)
+- [[EN: Text] To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction (dkeenan.com)](https://dkeenan.com/Lambda/)
+- [[EN: Text] A Tutorial Introduction to the Lambda Calculus (Raúl Rojas)](https://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
+- [[EN: Text] Lambda Calculus (Alex Aiken)](https://web.stanford.edu/class/cs242/materials/lectures/lecture04.pdf)
 - [[EN: Video Playlist] Lambda Calculus (David Franz)](https://www.youtube.com/playlist?list=PLBbCu3SnCcwKIgSozQQkxa6I7aNbKD0pz)
 - [[EN: Video Playlist] Lambda Calculus (Robert Joseph Panganiban)](https://www.youtube.com/playlist?list=PLDAqk5znTEXeQwDstVk5uzsNmj3RTMlVg)
 - [[EN: Video Playlist] Lambda Calculus (NiceMeTube)](https://www.youtube.com/playlist?list=PL4A05CF0478DAD704)
 - [[EN: Video] Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript (Fullstack Academy)](https://www.youtube.com/watch?v=3VQ382QG-y4)
 - [[EN: Video] Why function are turing complete (Lambda Calculas) (A Byte of Code)](https://www.youtube.com/watch?v=m32kbFXBRR0)
+- [[EN: Video] A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II (Gabriel Lebec)](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
 - [[EN: Video] Lambda Calculus (Computerphile)](https://www.youtube.com/watch?v=eis11j_iGMs)
 - [[EN: Video] Lambda Calculus (Truttle1)](https://www.youtube.com/watch?v=RsO_sfHtXCM)
 - [[EN: Video] Lambda Calculus: The foundation of functional programming, and the simplest programming language (Tony Zhang)](https://www.youtube.com/watch?v=_n4LIt2WPzE)
@@ -51,6 +57,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] What is category theory? (Topos Institute)](https://www.youtube.com/watch?v=eXBwU9ieLL0)
 - [[EN: Video] Category Theory: An Introduction to Abstract Nonsense (Feynman's Chicken)](https://www.youtube.com/watch?v=igf04k13jZk)
 - [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
+- [[EN: Video] The Mathematician's Weapon | Category Theory and Why We Care 1.0 (Eyesomorphic)](https://www.youtube.com/watch?v=FQYOpD7tv30)
 
 ### [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
@@ -85,6 +92,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)
 - [[EN: Video Playlist] Functional Thinking (peppidesu)](https://www.youtube.com/playlist?list=PL1SYCiBYXV13Lo16ip4BRn3mGUJhNxWEi)
 - [[EN: Video Playlist] Haskell (Stephen Edwards)](https://www.youtube.com/playlist?list=PLTNTO_CItGjSIQ8NMfe2b3v8z4gS7fHcx)
+- [[EN: Video Playlist] Intro to Functional Programming with Haskell Course (LigerLearn)](https://www.youtube.com/playlist?list=PLMWwct3_kb-2xtOziG1gQYMVr691GadR4)
 - [[EN: Video] Haskell Tutorial (Derek Banas)](https://www.youtube.com/watch?v=02_H3LjqMr8)
 - [[EN: Video] Haskell in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=Qa8IfEeBJqk)
 - [[EN: Video] Functional Programming & Haskell (Computerphile)](https://www.youtube.com/watch?v=LnX3B9oaKzw)

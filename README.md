@@ -85,6 +85,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Video Playlist] ปูพื้นฐาน Haskell เพื่อทำความเข้าใจ Plutus และ Marlowe | Haskell for Plutus & Marlowe (Codanar โคดาน่าร์ - คาร์ดาโน่)](https://www.youtube.com/playlist?list=PLWI_7XSoI_mIYKIWmEP_01bdxl4ixSjAn)
 - [[TH: Video] ภาษา Haskell เบื้องต้น](https://www.youtube.com/watch?v=GrRboRMqSM8)
 - [[EN: Text] Haskell Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/haskell/)
+- [[EN: Text] Haskell Notes for Professionals (books.goalkicker.com)](https://books.goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf)
 - [[EN: Text] School of Haskell (schoolofhaskell.com)](https://www.schoolofhaskell.com/)
 - [[EN: Text] Learn You a Haskell for Great Good! (learnyouahaskell.com)](https://learnyouahaskell.com/chapters)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
@@ -135,6 +136,8 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 
 - [[EN: Text] Typescript Handbook (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/)
+- [[EN: Text] Javascript Notes for Professionals (books.goalkicker.com)](https://books.goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf)
+- [[EN: Text] Typescript Notes for Professionals (books.goalkicker.com)](https://books.goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf)
 - [[EN: Course] Professor Frisby Introduces Composable Functional JavaScript (egghead.io)](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 - [[EN: Video Playlist] Functional Programming with Typescript (Web Village Voyage)](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 - [[EN: Video Playlist] fp-ts Tutorial (Functional Programming in TypeScript) (MrFunctor)](https://www.youtube.com/playlist?list=PLUMXrUa_EuePN94nJ2hAui5nWDj8RO3lH)

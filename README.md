@@ -88,6 +88,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Haskell Notes for Professionals (books.goalkicker.com)](https://books.goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf)
 - [[EN: Text] School of Haskell (schoolofhaskell.com)](https://www.schoolofhaskell.com/)
 - [[EN: Text] Learn You a Haskell for Great Good! (learnyouahaskell.com)](https://learnyouahaskell.com/chapters)
+- [[EN: Text] Learn Haskell (markkarpov.com)](https://markkarpov.com/learn-haskell)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [[EN: Video Playlist] Haskell for Imperative Programmers (Philipp Hagenlocher)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [[EN: Video Playlist] Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)

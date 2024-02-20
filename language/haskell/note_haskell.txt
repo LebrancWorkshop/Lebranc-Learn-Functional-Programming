@@ -2,7 +2,9 @@ Haskell Programming Language
 
 Data Type:
 - Int: จำนวนเต็ม
+- Integer: Bigger Int
 - Float: จำนวนทศนิยม
+- Double: Bigger Float 
 - Bool: ค่าความจริง (True, False)
 - Char: เก็บตัวอักษร (Alphabet)
 

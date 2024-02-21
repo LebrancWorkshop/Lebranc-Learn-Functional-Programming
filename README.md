@@ -61,7 +61,8 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Intro to Category Theory (Warwick Mathematics Exchange)](https://www.youtube.com/watch?v=AUD2Rpoy6O4)
 - [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
 - [[EN: Video] The Mathematician's Weapon | Category Theory and Why We Care 1.0 (Eyesomorphic)](https://www.youtube.com/watch?v=FQYOpD7tv30)
-- [[EN: Video] ∞-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k)
+- [[EN: Video] https://www.youtube.com/watch?v=5Ykrfqrxc8o (Eyesomorphic)](https://www.youtube.com/watch?v=5Ykrfqrxc8o)
+- [[EN: Video] ∞-Category Theory for Undergraduates (Emily Riehl)](https://www.youtube.com/watch?v=A6hXn6QCu0k)
 - [[EN: Video] The First Real Application of Category Theory #SoME3 (GeometricSquirtle)](https://www.youtube.com/watch?v=Njx2ed8RGis)
 - [[EN: Video] A Crash Course in Category Theory - Bartosz Milewski (ScalaIO FR)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 

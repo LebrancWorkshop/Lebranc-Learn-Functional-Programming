@@ -67,3 +67,6 @@ List: Collection of Same Type Element
   - Empty List: []
   - Prepend: <Element> : <List> (Add Element to List to The First Index)
 
+Higher-Order Function: Function that take another function as argument or return function as a result.
+
+

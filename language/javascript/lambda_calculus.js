@@ -22,7 +22,7 @@ const A = a => b => a(b); // Apply (A-Combinator)
 const BB = a => b => c => d => a(b(c)(d)); // Blackbird (BB-Combinator)
 const P = a => b => c => d => a(b(d))(c(d)); // Phoenix (P-Combinator)
 const Y = a => (b => b(b))(b => a(c => b(b)(c))); // Why (Y-Combinator) == Y-Fixed Point
-const Z = a => M(b => a(M(b))); // Z-Fixed Point
+const Z = a => M(b => a(M(b))); // Z-Fixed Point (Z-Combinator)
 const U = a => b => b(a(a)(b)); // Turing (U-Combinator)
 const Psi = a => b => c => d => a(b(c))(b(d)); // Psi (Ψ-Combinator)
 
@@ -67,4 +67,4 @@ const nul = p => p(x => y => Fs); // Null
 
 
 // Application
-
+console.log(toNum(n1));

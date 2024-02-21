@@ -58,6 +58,25 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Category Theory: An Introduction to Abstract Nonsense (Feynman's Chicken)](https://www.youtube.com/watch?v=igf04k13jZk)
 - [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
 - [[EN: Video] The Mathematician's Weapon | Category Theory and Why We Care 1.0 (Eyesomorphic)](https://www.youtube.com/watch?v=FQYOpD7tv30)
+- [[EN: Video] ∞-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k)
+
+### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
+
+- [[EN: Video Playlist] Functional Programming - Type Theory](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
+- [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)
+- [[EN: Video] The Hardest Problem in Type Theory (Computerphile)](https://www.youtube.com/watch?v=m_PecfbEWik)
+- [[EN: Video] Propositions as Types](https://www.youtube.com/watch?v=SknxggwRPzU)
+- [[EN: Video] My First Type Theory (Guerrilla-Lectures)](https://www.youtube.com/watch?v=BQNOjum8YlU)
+- [[EN: Video] Type Theory for the Working Rustacean - Dan Pittman (Rust Belt Rust Conference)](https://www.youtube.com/watch?v=BdXWlQsd7RI)
+- [[EN: Video] A Type System From Scratch - Robert Widmann (Functional Swift)](https://www.youtube.com/watch?v=IbjoA5xVUq0)
+
+### [Homotopy Type Theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+
+- [[EN: Video Playlist] Intro to Homotopy Type Theory (jacobneu)](https://www.youtube.com/playlist?list=PL245PKGUDdcN9-El9D7DRefwX4c9feiYq)
+- [[EN: Video Playlist] Robert Harper - Homotopy Type Theory (HoTT Lectures)](https://www.youtube.com/playlist?list=PL1-2D_rCQBarjdqnM21sOsx09CtFSVO6Z)
+- [[EN: Video] What is...homotopy type theory? (VisualMath)](https://www.youtube.com/watch?v=gVx5KS0kuOg)
+- [[EN: Video] Homotopy Type Theory Discussed (Computerphile)](https://www.youtube.com/watch?v=Ft8R3-kPDdk)
+- [[EN: Video] Homotopy Type Theory - An Introduction to Topology, Formal Logic, and HoTT #SoME3 (Erik Hill)](https://www.youtube.com/watch?v=wDxDtWYjmgA)
 
 ### [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 

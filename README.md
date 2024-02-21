@@ -63,6 +63,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] The Mathematician's Weapon | Category Theory and Why We Care 1.0 (Eyesomorphic)](https://www.youtube.com/watch?v=FQYOpD7tv30)
 - [[EN: Video] ∞-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k)
 - [[EN: Video] The First Real Application of Category Theory #SoME3 (GeometricSquirtle)](https://www.youtube.com/watch?v=Njx2ed8RGis)
+- [[EN: Video] A Crash Course in Category Theory - Bartosz Milewski (ScalaIO FR)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 

@@ -1,1 +1,9 @@
 Abstract Algebra
+
+Operator:
+- Unary Operator
+- Binary Operator
+
+Algebraic Structure
+- Group-Like Structure (Group Theory)
+- Ring-Like Structure (Ring Theory)

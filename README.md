@@ -63,8 +63,11 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 
 - [[EN: Video Playlist] Functional Programming - Type Theory](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
+- [[EN: Video] Why should you learn Type Theory?](https://www.youtube.com/watch?v=QRrcwahx-3s)
 - [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)
 - [[EN: Video] The Hardest Problem in Type Theory (Computerphile)](https://www.youtube.com/watch?v=m_PecfbEWik)
+- [[EN: Video] Notes on Type Theory for beginners (Jfokus)](https://www.youtube.com/watch?v=AJ-yQEfvdVc)
+- [[EN: Video] Type Theory: It's the New Set Theory (Zoom for Thought 02/09/21) (Food for Thought)](https://www.youtube.com/watch?v=8UpFV_QB5cY)
 - [[EN: Video] Propositions as Types](https://www.youtube.com/watch?v=SknxggwRPzU)
 - [[EN: Video] My First Type Theory (Guerrilla-Lectures)](https://www.youtube.com/watch?v=BQNOjum8YlU)
 - [[EN: Video] Type Theory for the Working Rustacean - Dan Pittman (Rust Belt Rust Conference)](https://www.youtube.com/watch?v=BdXWlQsd7RI)
@@ -74,6 +77,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 - [[EN: Video Playlist] Intro to Homotopy Type Theory (jacobneu)](https://www.youtube.com/playlist?list=PL245PKGUDdcN9-El9D7DRefwX4c9feiYq)
 - [[EN: Video Playlist] Robert Harper - Homotopy Type Theory (HoTT Lectures)](https://www.youtube.com/playlist?list=PL1-2D_rCQBarjdqnM21sOsx09CtFSVO6Z)
+- [[EN: Video Playlist] 2019 - HoTT Introduction to homotopy type theory (Andrej Bauer)](https://www.youtube.com/playlist?list=PL-47DDuiZOMCRDiXDZ1fI0TFLQgQqOdDa)
 - [[EN: Video] What is...homotopy type theory? (VisualMath)](https://www.youtube.com/watch?v=gVx5KS0kuOg)
 - [[EN: Video] Homotopy Type Theory Discussed (Computerphile)](https://www.youtube.com/watch?v=Ft8R3-kPDdk)
 - [[EN: Video] Homotopy Type Theory - An Introduction to Topology, Formal Logic, and HoTT #SoME3 (Erik Hill)](https://www.youtube.com/watch?v=wDxDtWYjmgA)

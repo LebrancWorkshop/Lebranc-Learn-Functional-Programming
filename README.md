@@ -59,9 +59,11 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] What is Category Theory in mathematics? Johns Hopkins' Dr. Emily Riehl explains (Johns Hopkins University)](https://www.youtube.com/watch?v=WLkMBMUk48E)
 - [[EN: Video] The Mathematician's Weapon | Category Theory and Why We Care 1.0 (Eyesomorphic)](https://www.youtube.com/watch?v=FQYOpD7tv30)
 - [[EN: Video] ∞-Category Theory for Undergraduates](https://www.youtube.com/watch?v=A6hXn6QCu0k)
+- [[EN: Video] The First Real Application of Category Theory #SoME3 (GeometricSquirtle)](https://www.youtube.com/watch?v=Njx2ed8RGis)
 
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 
+- [[EN: Text] Type Theory (nLab)](https://ncatlab.org/nlab/show/type+theory)
 - [[EN: Video Playlist] Functional Programming - Type Theory](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
 - [[EN: Video] Why should you learn Type Theory?](https://www.youtube.com/watch?v=QRrcwahx-3s)
 - [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)
@@ -75,6 +77,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ### [Homotopy Type Theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 
+- [[EN: Text] Homotopy Type Theory (nLab)](https://ncatlab.org/nlab/show/homotopy+theory)
 - [[EN: Video Playlist] Intro to Homotopy Type Theory (jacobneu)](https://www.youtube.com/playlist?list=PL245PKGUDdcN9-El9D7DRefwX4c9feiYq)
 - [[EN: Video Playlist] Robert Harper - Homotopy Type Theory (HoTT Lectures)](https://www.youtube.com/playlist?list=PL1-2D_rCQBarjdqnM21sOsx09CtFSVO6Z)
 - [[EN: Video Playlist] 2019 - HoTT Introduction to homotopy type theory (Andrej Bauer)](https://www.youtube.com/playlist?list=PL-47DDuiZOMCRDiXDZ1fI0TFLQgQqOdDa)

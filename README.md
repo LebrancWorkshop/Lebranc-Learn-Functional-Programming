@@ -161,6 +161,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 - [[EN: Text] Elixir Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/elixir)
 - [[EN: Text] Elixir Learning Resource (elixir-lang.org)](https://elixir-lang.org/learning.html)
+- [[EN: Text] Elixir School (elixirschool.com)](https://elixirschool.com/)
 - [[EN: Text] Joy of Elixir (joyofelixir.com)](https://joyofelixir.com/toc.html)
 - [[EN: Video Playlist] Intro to Elixir (Tensor Programming)](https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2)
 - [[EN: Video Playlist] Elixir Basics (Elixir Mentor)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB)

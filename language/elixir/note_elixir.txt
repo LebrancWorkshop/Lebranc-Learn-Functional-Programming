@@ -9,6 +9,8 @@ Data Types:
 - Floats
 - Boolean
 - String
+- Atom -> The Variable that its name is a value.
+(Ex. :<Variable> is equivalent to <Variable> = "<Variable>")
 - Anonymous Functions / Lambdas
 - Collections
 
@@ -124,3 +126,19 @@ List and Tuple:
   => hd(<List Variable or Value>)
 - Tail of a list:
   => tl(<List Variable or Value>)
+
+Keyword Lists:
+=> [<Key1>: <Value1>, <Key2>: <Value2>, ..., <KeyN>: <ValueN>]
+or
+=> [{:<Key1>, <Value1>}, {:<Key2>, <Value2>}, ..., {:<KeyN>, <ValueN>}]
+- Return Value of a Key:
+  => <Keyword List Variable or Value>[:<Key>]
+- Get The First Value from Key:
+  => Keyword.get(<Keyword List Variable or Value>, :<Key>)
+- Insert Key & Value:
+  => Keyword.put_new(<Keyword List Variable or Value>, :<Key>, <Value>)
+
+
+Map:
+=> %{<Key1> => <Value1>, <Key2> => <Value2>, ..., <KeyN> => <ValueN>}
+- You can use value as a key, and a key as a value.

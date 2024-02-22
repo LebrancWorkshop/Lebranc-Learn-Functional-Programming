@@ -1,0 +1,126 @@
+Output:
+=> IO.puts <Output Expression>
+
+Comments:
+=> # <Comment>
+
+Data Types:
+- Integer
+- Floats
+- Boolean
+- String
+- Anonymous Functions / Lambdas
+- Collections
+
+Variable Assignment:
+=> <Variable> = <Value>
+
+Variable Naming Convention:
+=> <snake_case_variable_name>
+
+Operators:
+- Arithmetic Operators
+  - Addition: +
+  - Subtraction: -
+  - Multiplication: *
+  - Division: /
+  - Floor Integer Division: div
+  - Remainder / Modulo: rem
+- Comparison Operators
+  - Value Equality: ==
+  - Value Inequality: !=
+  - Type & Value (Check Type then Check Value) Equality: ===
+  - Type & Value (Check Type then Check Value) Inequality: !==
+  - Greater Than: >
+  - Less Than: <
+  - Greater Than or Equal To: >=
+  - Less Than or Equal To: <=
+- Logical Operators (Strict means Expect the first argument to be a boolean value,
+Non-Strict doesn't)
+  - Strict AND: and
+  - Strict OR: or
+  - Strict NOT: not
+  - Non-Strict AND: &&
+  - Non-Strict OR: ||
+  - Non-Strict NOT: !
+- Bitwise Operators
+  - Bitwise AND: &&&
+  - Bitwise OR: |||
+  - Bitwise Right Shift: >>>
+  - Bitwise Left Shift: <<<
+  - Bitwise XOR: ^^^
+  - Bitwise NOT: ~~~
+- Misc Operators
+  - Concatenation Operator
+  - Match Operator
+  - Pin Operator
+  - Pipe Operator
+  - String Match Operator
+  - Code Point Operator
+  - Capture Operator
+  - Ternary Operator
+
+
+Control Flow: Condition
+- If-Else
+  => if <Condition> do
+        <Expression when Condition is Truthy>
+      else
+        <Expression when Condition is Falsy>
+      end
+- Unless-End
+  => unless <Condition> do
+        <Expression when Condition is Falsy>
+      else
+        <Expression when Condition is Truthy>
+      end
+- Cond
+  => cond do
+        <Condition 1> -> <Expression when Condition 1 is Truthy>
+        <Condition 2> -> <Expression when Condition 2 is Truthy>
+        ...
+        <Condition N> -> <Expression when Condition N is Truthy>
+        true -> <Expression when all Conditions are Falsy>
+      end
+- Case
+  => case <Value> do
+        <Pattern 1> -> <Expression when Pattern 1 is matched>
+        <Pattern 2> -> <Expression when Pattern 2 is matched>
+        ...
+        <Pattern N> -> <Expression when Pattern N is matched>
+        _ -> <Expression when above patterns don't matched>
+      end
+
+String: String with Double Quotes (Binary)
+- String Interpolation:
+  => "#{<Variable>}"
+- String Concatenation:
+  => <String 1> <> <String 2> <> ... <> <String N>
+- String Length:
+  => String.length(<String Variable or Value>)
+- String Reverse:
+  => String.reverse(<String Variable or Value>)
+- String Matching:
+  => String.match?(<String Variable or Value>, <Regular Expression>)
+
+Char List: String with Single Quotes (List)
+- Convert String to Char List:
+  => to_char_list(<String Variable or Value>)
+- Convert Char List to String:
+  => to_string(<Char List Variable or Value>)
+- Check Char List:
+  => is_list(<Check If Variable or Value is Char List>)
+- Check Binary:
+  => is_binary(<Check If Variable or Value is Binary or String>)
+
+List and Tuple:
+- Length of a list:
+  => length(<List Variable or Value>)
+- Concatenation of Lists:
+  => <List 1> ++ <List 2> ++ ... ++ <List N>
+- Subtraction of Lists:
+  => <List 1> -- <List 2> -- ... -- <List N>
+- Head of a list:
+  => hd(<List Variable or Value>)
+- Tail of a list:
+  => tl(<List Variable or Value>)

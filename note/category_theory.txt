@@ -1,14 +1,45 @@
 Category Theory
 
-Object:
-
-Morphisms:
+โครงสร้างทางคณิตศาสตร์ (Mathematical Model) ที่ประกอบไปด้วย Object กับ Morphism
+- Object: สัญลักษณ์จุดแทน Object เวลาเขียนเป็น Diagram, สมาชิกของ Category แทนด้วยสัญลักษณ์ Ob(C)
+เป็นเซตที่ประกอบไปด้วยสมาชิก คือ Object ทั้งหมดใน Category C
+- Morphism: สัญลักษณ์ลูกศรแทน Morphism เวลาเขียนเป็น Diagram
+แทนการเปลี่ยนแปลงระหว่าง Object 2 ตัว (จุด Object ที่อยู่ตรงหางลูกศร ไปยัง จุด Object ที่อยู่ตรงหัวลูกศร)
+ใน Category แทนด้วยสัญลักษณ์​ hom(A, B) หมายถึง เซตที่ประกอบไปด้วยสมาชิกที่เป็น Morphism
+ทั้งหมดที่เชื่อม Object A ไปยัง Object B ใน Category เดียวกัน
 
 Composition:
+A -f-> B -g-> C มีค่าเท่ากับ A -g(f)-> C หรือ A -(g o f)-> C
 
-Identities:
+สมบัติของ Category:
+- Identity: ในทุกๆ Object ภายใน Category จะมี Morphism ที่เป็นลูกศรที่ชี้เข้าตัวเองเสมอ A -id_A-> A
+- Associativity: ให้ f: A -> B, g: B -> C, h: C -> D ใน Category จะได้ว่า
+h o (g o f) = (h o g) o f
 
-Identity Law:
+Type of Category
+- Product Category:
+C x D แทน Category ที่เป็น Product กันระหว่าง Category C กับ D
+จะได้ว่า
+มองในฝั่ง Object: Ob(C x D) = Ob(C) x Ob(D)
+มองในฝั่ง Morphism: hom_CxD((A, B), (A', B')) = hom_C(A, A') x hom_D(B, B')
 
-Associative Law:
+Example of Category in Mathematics:
+- Category of Set: Set -(function)-> Set
+- Category of Group (Grp): Group -(homomorphism)-> Group
+- Category of Topological Space (Top): Topological Space -(continuous map)-> Topological Space
+- Category of Vector Space (Vect): Vector Space -(linear transformation)-> Vector Space
 
+Functor: Morphism between Categories
+ให้ C, D เป็น Category
+F: C -> D (F คือ Functor) หมายความว่า
+F: Ob(C) -> Ob(D) หรือ X |-> F(X) (มองในมุมมองของระหว่าง Object)
+F: hom(C) -> hom(D) (มองในมุมมองระหว่าง Morphism) มีกฏอยู่ว่า
+  - F(id_X) = id_F(X) สำหรับทุกๆ X ที่แทนด้วย Object ทั้งหมดใน Category
+  - F(g o f) = F(g) o F(f) สำหรับทุกๆ X
+
+Covariance กับ Contravariance
+ถ้าเรามี
+- F: C -> D => ตัวนี้จะเป็น Covariance Functor
+- F: C^op -> D => ตัวนี้จะเป็น Contravariance Functor
+
+Natural Transformation: Morphism between Functors

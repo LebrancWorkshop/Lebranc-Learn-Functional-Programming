@@ -22,12 +22,23 @@ C x D แทน Category ที่เป็น Product กันระหว่�
 จะได้ว่า
 มองในฝั่ง Object: Ob(C x D) = Ob(C) x Ob(D)
 มองในฝั่ง Morphism: hom_CxD((A, B), (A', B')) = hom_C(A, A') x hom_D(B, B')
+- Dual Category:
+C^op แทน Category ที่เป็น Dual Category กับ Category C
+มีความหมายว่า Category ที่มี Object และ Morphism เหมือนกับ Category C แต่สลับทิศทางของลูกศร Morphism ทั้งหมด เช่น
+C: A -f-> B จะได้ว่า C^op: B -f-> A
 
 Example of Category in Mathematics:
 - Category of Set: Set -(function)-> Set
 - Category of Group (Grp): Group -(homomorphism)-> Group
 - Category of Topological Space (Top): Topological Space -(continuous map)-> Topological Space
 - Category of Vector Space (Vect): Vector Space -(linear transformation)-> Vector Space
+
+Commutative Diagram:
+
+Isomorphism in Category:
+A -f-> B และ B -g-> A จะมองว่า f และ g เป็น Isomorphism กัน จะได้ว่า
+f = g^-1
+หรือ g = f^-1 
 
 Functor: Morphism between Categories
 ให้ C, D เป็น Category
@@ -43,3 +54,4 @@ Covariance กับ Contravariance
 - F: C^op -> D => ตัวนี้จะเป็น Contravariance Functor
 
 Natural Transformation: Morphism between Functors
+แทนด้วยสัญลักษณ์ η โดยที่ η: F -> G (F, G คือ Functor)

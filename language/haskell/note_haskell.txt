@@ -69,4 +69,8 @@ List: Collection of Same Type Element
 
 Higher-Order Function: Function that take another function as argument or return function as a result.
 
+Anonymous Function: Function that doesn't have name.
+  => (\<Arguments...> -> <Expression>)
+
+Function Composition: Compose multiple function into one function. 
 

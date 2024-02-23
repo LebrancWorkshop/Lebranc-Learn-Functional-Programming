@@ -165,6 +165,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Joy of Elixir (joyofelixir.com)](https://joyofelixir.com/toc.html)
 - [[EN: Video Playlist] Intro to Elixir (Tensor Programming)](https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2)
 - [[EN: Video Playlist] Elixir Basics (Elixir Mentor)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB)
+- [[EN: Video Playlist] Functional Programming With Elixir (Octallium)](https://www.youtube.com/playlist?list=PLYwEjF73cpLm7ER-veWSaFxbGrKqP-3li)
 - [[EN: Video] Functional Programming with Elixir - Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=IiIgm_yaoOA)
 - [[EN: Video] Elixir Programming Introduction - Complete Tutorial! (Caleb Curry)](https://www.youtube.com/watch?v=-lgtb-YSUWE)
 - [[EN: Video] Elixir in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=R7t7zca8SyM)

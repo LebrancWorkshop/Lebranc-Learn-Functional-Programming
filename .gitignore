@@ -1,0 +1,9 @@
+# VSCode
+.vscode
+
+# LaTeX Build File Extensions.
+**/**.aux
+**/**.fdb_latexmk
+**/**.fls
+**/**.log
+

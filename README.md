@@ -122,6 +122,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] School of Haskell (schoolofhaskell.com)](https://www.schoolofhaskell.com/)
 - [[EN: Text] Learn You a Haskell for Great Good! (learnyouahaskell.com)](https://learnyouahaskell.com/chapters)
 - [[EN: Text] Learn Haskell (markkarpov.com)](https://markkarpov.com/learn-haskell)
+- [[EN: Video Playlist] [CS] Lang: Haskell](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFgMwjaueJu3sYw8ELaOL9V)
 - [[EN: Video Playlist] Functional Programming in Haskell (Graham Hutton)](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 - [[EN: Video Playlist] Haskell for Imperative Programmers (Philipp Hagenlocher)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [[EN: Video Playlist] Haskell for Beginners (Beaufort Tek)](https://www.youtube.com/playlist?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)
@@ -138,6 +139,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Clojure Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/clojure)
 - [[EN: Text] Brave Clojure (braveclojure.com)](https://www.braveclojure.com/)
 - [[EN: Text] Clojure from the ground up (aphyr.com)](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [[EN: Video Playlist] [CS] Lang: Clojure (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKEZ4F50sn9KaL39ksPIzxLH)
 - [[EN: Video Playlist] Clojure talks from Strange Loop (Strange Loop Conference)](https://www.youtube.com/playlist?list=PLcGKfGEEONaC1LNtrH4YN5PYOlBKlcAbS)
 
 ### [Scala](https://www.scala-lang.org/)
@@ -163,6 +165,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Elixir Learning Resource (elixir-lang.org)](https://elixir-lang.org/learning.html)
 - [[EN: Text] Elixir School (elixirschool.com)](https://elixirschool.com/)
 - [[EN: Text] Joy of Elixir (joyofelixir.com)](https://joyofelixir.com/toc.html)
+- [[EN: Video Playlist] [CS] Lang: Elixir (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKGYk-q2tCa02jurWGiblzNA)
 - [[EN: Video Playlist] Intro to Elixir (Tensor Programming)](https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2)
 - [[EN: Video Playlist] Elixir Basics (Elixir Mentor)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB)
 - [[EN: Video Playlist] Functional Programming With Elixir (Octallium)](https://www.youtube.com/playlist?list=PLYwEjF73cpLm7ER-veWSaFxbGrKqP-3li)

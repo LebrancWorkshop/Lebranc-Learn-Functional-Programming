@@ -142,3 +142,33 @@ or
 Map:
 => %{<Key1> => <Value1>, <Key2> => <Value2>, ..., <KeyN> => <ValueN>}
 - You can use value as a key, and a key as a value.
+
+
+Module:
+- Define Module:
+  => defmodule <Module Name> do
+        def <Function Name> do
+          <Function Expression>
+        end
+      end
+- How to use Function under Module:
+  => <Module Name>.<Function Name>
+
+
+Aliases:
+- Alias: Alias the Module.
+  => alias <Module Name>.<Function Name>, as: <Alias>
+- Require: Ensure the module is compiled and available. (Ususally for Macros)
+  => require <Module Name>
+- Import: Import Function from Module so we can called the functions without Module Prefix.
+  => import <Module Name>
+- Use: Invokes the custom code defined in the Module as an extension point.
+  => use <Module Name>
+
+Enumerables:
+
+Struct:
+- Define Struct:
+  => defmodule <Struct Name> do
+        defstruct <Field 1>: <Default Value 1>, <Field 2>: <Default Value 2>, ..., <Field N>: <Default Value N>
+      end

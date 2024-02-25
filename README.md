@@ -180,6 +180,15 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Elixir in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=R7t7zca8SyM)
 - [[EN: Video] Elixir & Phoenix Fundamentals Full Course For Beginners (Elixirprogrammer)](https://www.youtube.com/watch?v=gRQIPvDFuts)
 
+### [Racket](https://racket-lang.org/)
+
+- [[EN: Text] Racket Documentation (racket-lang.org)](https://docs.racket-lang.org/)
+- [[EN: Text] Excellent Free Tutorials to Learn Racket](https://www.linuxlinks.com/excellent-free-tutorials-learn-racket/)
+- [[EN: Text] Teach Yourself Racket (cs.waterloo.ca)](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
+- [[EN: Text] Learn Racket in Y Minutes (Learn X in Y minutes)](https://learnxinyminutes.com/docs/racket/)
+- [[EN: Text] Quick: An Introduction to Racket with Pictures (web.mit.edu)](https://web.mit.edu/racket_v612/amd64_ubuntu1404/racket/doc/quick/index.html)
+-
+
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 
 - [[EN: Text] Typescript Handbook (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/)

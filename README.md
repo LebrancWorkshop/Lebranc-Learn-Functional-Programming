@@ -114,7 +114,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] SOLID: the next step is Functional (blog.ploeh.dk)](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [[EN: Video] What is a Monad? (Computerphile)](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
-## Functional Programming Language
+## [Functional Programming Language](https://en.wikipedia.org/wiki/Category:Functional_languages)
 
 ### [Haskell](https://www.haskell.org/)
 

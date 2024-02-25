@@ -69,6 +69,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] ∞-Category Theory for Undergraduates (Emily Riehl)](https://www.youtube.com/watch?v=A6hXn6QCu0k)
 - [[EN: Video] The First Real Application of Category Theory #SoME3 (GeometricSquirtle)](https://www.youtube.com/watch?v=Njx2ed8RGis)
 - [[EN: Video] A Crash Course in Category Theory - Bartosz Milewski (ScalaIO FR)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
+- [[EN: Video] Lambda World 2019 - Fun With Categories - Marco Perone (Lambda World)](https://www.youtube.com/watch?v=Z803Dk2nIHc)
 
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 
@@ -187,7 +188,14 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Teach Yourself Racket (cs.waterloo.ca)](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 - [[EN: Text] Learn Racket in Y Minutes (Learn X in Y minutes)](https://learnxinyminutes.com/docs/racket/)
 - [[EN: Text] Quick: An Introduction to Racket with Pictures (web.mit.edu)](https://web.mit.edu/racket_v612/amd64_ubuntu1404/racket/doc/quick/index.html)
--
+- [[EN: Video Playlist] Functional Programming (Racket) (SoftwareEngenius)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
+- [[EN: Video Playlist] Racket in CS60 (colleen lewis)](https://www.youtube.com/playlist?list=PLHqz-wcqDQIEThNEXViEb1iFh9vbOtUD_)
+- [[EN: Video Playlist] Racket Tutorial (Knowledge Explorer)](https://www.youtube.com/playlist?list=PLwRWrJEfK48BBDKuvcT9O-e9BIMimNOjg)
+- [[EN: Video] An Introduction to the Racket Programming Language (Gavin Freeborn)](https://www.youtube.com/watch?v=n_7drg-R-YY)
+- [[EN: Video] Racket: A Programming-Language Programming Language • Robby Findler • YOW! 2015 (GOTO Conferences)](https://www.youtube.com/watch?v=qqeteRf2GW8)
+- [[EN: Video] Racket: Why I Think It’s a Great Language, and Why I’m Not Using It Anymore (Leandro Facchinetti)](https://www.youtube.com/watch?v=_wY7FBtr7_c)
+- [[EN: Video] Eric Clack - Why learn Racket? (Racketfest)](https://www.youtube.com/watch?v=l6VuYdQHhE0)
+- [[EN: Video] Lambda World 2019 - Language-Oriented Programming with Racket - Matthias Felleisen (Lambda World)](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 

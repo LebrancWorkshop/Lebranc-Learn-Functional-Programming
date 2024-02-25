@@ -1,4 +1,15 @@
 Functional Programming
 - Style of Programming in which the basic method of computation is the application of functions to
 argument
-- One that supports and encourages the functional style. 
+- One that supports and encourages the functional style.
+
+
+Core Concept (Programming Perspective):
+- A Function should do one thing and do it well.
+- Currying
+- Higher-Order Function
+- Arity
+- Function Composition
+- Monads
+
+Railway-Oriented Programming:

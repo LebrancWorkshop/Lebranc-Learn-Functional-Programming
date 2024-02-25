@@ -74,6 +74,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Type Theory & Functional Programming (Simon Thompson, Computing Laboratory, University of Kent)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [[EN: Text] A Brief Introduction to Type Theory and The Univalence Axiom (Jackson Macor)](https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf)
 - [[EN: Text] Propositions as Types (Philip Wadler, University of Edinburgh)](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+- [[EN: Text] Type Theory and Its applications to Computer Science (César Muñoz, National Institute of Aerospace)](https://shemesh.larc.nasa.gov/fm/papers/ICASE1999-QNews.pdf)
 - [[EN: Video Playlist] Functional Programming - Type Theory (Hans Schenker)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
 - [[EN: Video] Why should you learn Type Theory? (Dapper Mink)](https://www.youtube.com/watch?v=QRrcwahx-3s)
 - [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)

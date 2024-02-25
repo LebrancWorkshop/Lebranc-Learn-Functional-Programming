@@ -16,6 +16,8 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction (dkeenan.com)](https://dkeenan.com/Lambda/)
 - [[EN: Text] A Tutorial Introduction to the Lambda Calculus (Raúl Rojas)](https://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 - [[EN: Text] Lambda Calculus (Alex Aiken)](https://web.stanford.edu/class/cs242/materials/lectures/lecture04.pdf)
+- [[EN: Text] Lambda Calculus in Javascript (Michele Riva)](https://medium.com/openmindonline/lambda-calculus-in-javascript-1ee947cadb21)
+- [[EN: Text] Implementing Recursion with the Y-Combinator in any Language (Michele Riva)](https://levelup.gitconnected.com/implementing-recursion-with-the-y-combinator-in-any-language-9e83fa369ca)
 - [[EN: Text] Fixed Points (Oscar Nierstrasz)](https://scg.unibe.ch/download/lectures/pl/PL-06FixPoints.pdf)
 - [[EN: Video Playlist] Lambda Calculus (David Franz)](https://www.youtube.com/playlist?list=PLBbCu3SnCcwKIgSozQQkxa6I7aNbKD0pz)
 - [[EN: Video Playlist] Lambda Calculus (Robert Joseph Panganiban)](https://www.youtube.com/playlist?list=PLDAqk5znTEXeQwDstVk5uzsNmj3RTMlVg)

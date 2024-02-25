@@ -70,6 +70,8 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] The First Real Application of Category Theory #SoME3 (GeometricSquirtle)](https://www.youtube.com/watch?v=Njx2ed8RGis)
 - [[EN: Video] A Crash Course in Category Theory - Bartosz Milewski (ScalaIO FR)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 - [[EN: Video] Lambda World 2019 - Fun With Categories - Marco Perone (Lambda World)](https://www.youtube.com/watch?v=Z803Dk2nIHc)
+- [[EN: Video] Category Theory in Life - Eugenia Cheng (Lambda World)](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- [[EN: Video] Category Theory for the Working Hacker by Philip Wadler (Lambda World)](https://www.youtube.com/watch?v=V10hzjgoklA)
 
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 

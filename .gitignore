@@ -11,3 +11,6 @@
 .clj-kondo/**
 .lsp/**
 
+# Elixir
+**/Elixir.Category.beam 
+

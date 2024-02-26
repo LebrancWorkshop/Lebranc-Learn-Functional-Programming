@@ -207,7 +207,20 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ### [OCaml](https://ocaml.org/)
 
+- [[EN: Text] Learn OCaml (ocaml.org)](https://ocaml.org/docs)
 - [[EN: Text] OCaml Programming: Correct + Efficient + Beautiful (cs3110)](https://cs3110.github.io/textbook/)
+- [[EN: Text] Learn OCaml in Y Minutes (Learn X in Y Minutes)](https://learnxinyminutes.com/docs/ocaml/)
+- [[EN: Video Playlist] OCaml Programming: Correct + Efficient + Beautiful (Michael Ryan Clarkson)](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [[EN: Video Playlist] OCAML Tutorial (Noureddin Sadawi)](https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1)
+- [[EN: Video Playlist] An Introduction to OCaml (Alexander Feldstein)](https://www.youtube.com/playlist?list=PLNLmKO0dE6C-DXLos4sp_R7Hn_uYkRttk)
+- [[EN: Video Playlist] OCaml Game Engine (teej_dv daily)](https://www.youtube.com/playlist?list=PLDWRoFV4JjSSad56GTubCemGa34AHjCfM)
+- [[EN: Video] OCaml First Thoughts (ThePrimeTime)](https://www.youtube.com/watch?v=W8P2YyCm1oE)
+- [[EN: Video] Learning OCAML Part 1 (TheVimegen)](https://www.youtube.com/watch?v=mhkoWp5Akww)
+- [[EN: Video] Intro to OCaml + Functional Programming (Gabbie)](https://www.youtube.com/watch?v=spwvg0DThh4)
+- [[EN: Video] OCaml Tutorial - Learn how to use the OCaml Programming Language (Fullstack Academy)](https://www.youtube.com/watch?v=PGGl5WcNOIU)
+- [[EN: Video] Why OCaml (Jane Street)](https://www.youtube.com/watch?v=v1CmGbOGb2I)
+- [[EN: Video] [Programming Languages] Episode 8 - First Impression - ocaml (Mike Shah)](https://www.youtube.com/watch?v=Aa5b6Y8NvGQ)
+- [[EN: Video] Elegance in OCaml with TJ DeVries | Backend Banter 001 (Backend Banter)](https://www.youtube.com/watch?v=vpxbVWpN598)
 
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 

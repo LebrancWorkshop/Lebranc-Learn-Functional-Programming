@@ -128,6 +128,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Video] ภาษา Haskell เบื้องต้น (Kittipong Bass)](https://www.youtube.com/watch?v=GrRboRMqSM8)
 - [[EN: Text] Haskell Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/haskell/)
 - [[EN: Text] Learning Haskell - Resources (wiki.haskell.org)](https://wiki.haskell.org/Learning_Haskell)
+- [[EN: Text] awesome-learning-haskell (tweag)](https://github.com/tweag/awesome-learning-haskell)
 - [[EN: Text] Haskell Notes for Professionals (books.goalkicker.com)](https://books.goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf)
 - [[EN: Text] 15 Resources to Help you learn Haskell in 2023 (serokell.io)](https://serokell.io/blog/how-to-learn-haskell-in-10-minutes)
 - [[EN: Text] School of Haskell (schoolofhaskell.com)](https://www.schoolofhaskell.com/)
@@ -148,6 +149,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 - [[TH: Text] Clojure for Curious People(1): introduction, Clojure compilation and anatomy of Clojure’s syntax (W.S.Kiang)](https://medium.com/@bullrish/clojure-for-curious-people-1-introduction-clojure-compilation-and-anatomy-of-clojures-syntax-a577f575932a)
 - [[EN: Text] Clojure Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/clojure)
+- [[EN: Text] An opinionated list of excellent Clojure learning materials (ssrihari, Github)](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 - [[EN: Text] Brave Clojure (braveclojure.com)](https://www.braveclojure.com/)
 - [[EN: Text] Clojure from the ground up (aphyr.com)](https://aphyr.com/tags/Clojure-from-the-ground-up)
 - [[EN: Video Playlist] [CS] Lang: Clojure (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKEZ4F50sn9KaL39ksPIzxLH)

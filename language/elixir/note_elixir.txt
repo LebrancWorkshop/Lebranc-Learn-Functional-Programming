@@ -1,6 +1,9 @@
 Output:
 => IO.puts <Output Expression>
 
+Input:
+=> IO.gets <Input Expression>
+
 Comments:
 => # <Comment>
 

@@ -175,3 +175,28 @@ Struct:
   => defmodule <Struct Name> do
         defstruct <Field 1>: <Default Value 1>, <Field 2>: <Default Value 2>, ..., <Field N>: <Default Value N>
       end
+
+Function:
+- Inside Module
+  => def <Module_Name> do
+        def <Function_Name> do
+          <Function_Expression>
+        end
+      end
+- Anonymous Function
+  => fn <Arguments...> -> <Function Expression> end
+  - How to use Anonymous Function:
+    => <Anonymous Function Variable>.(<Arguments...>)
+- Short Anonymous Function
+  => &(<Function Expression>)
+    when use this, Please remind that if function expression has arguments use it as &1, &2, &3, ...
+    (Number refer to order of parameter)
+
+Pattern Matching:
+=> <Variable> = fn
+      {<Atom1>, <Expression?>} -> <Expression when Pattern 1 is matched>
+      {<Atom2>} -> <Expression when Pattern 2 is matched>
+      ...
+      {<AtomN>} -> <Expression when Pattern N is matched>
+      _ -> <Expression when above patterns don't matched>
+    end

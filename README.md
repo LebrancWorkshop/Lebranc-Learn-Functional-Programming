@@ -205,6 +205,10 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Eric Clack - Why learn Racket? (Racketfest)](https://www.youtube.com/watch?v=l6VuYdQHhE0)
 - [[EN: Video] Lambda World 2019 - Language-Oriented Programming with Racket - Matthias Felleisen (Lambda World)](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 
+### [OCaml](https://ocaml.org/)
+
+- [[EN: Text] OCaml Programming: Correct + Efficient + Beautiful (cs3110)](https://cs3110.github.io/textbook/)
+
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 
 - [[EN: Text] Typescript Handbook (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/)

@@ -83,6 +83,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Lectures on the Curry-Howard Isomorphism (Morten Heine B.Sorensen - University of Copenhagen, Pawel Urzyczyn - University of Warsaw)](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 - [[EN: Text] Curry-Howard Correspondence (Wikipedia)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 - [[EN: Text] Curry-Howard Correspondence (Giselle Reis - Carnegie Mellon University)](https://web2.qatar.cmu.edu/cs/15317/lectures/04-curryhoward.pdf)
+- [[EN: Text] The Curry-Howard Isomorphism (Dan Grossman, University of Washington)](https://homes.cs.washington.edu/~djg/2011sp/lec12_6up.pdf)
 - [[EN: Video Playlist] Functional Programming - Type Theory (Hans Schenker)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
 - [[EN: Video] Why should you learn Type Theory? (Dapper Mink)](https://www.youtube.com/watch?v=QRrcwahx-3s)
 - [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)

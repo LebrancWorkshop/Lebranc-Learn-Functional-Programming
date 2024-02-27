@@ -76,6 +76,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
 
 - [[EN: Text] Type Theory (nLab)](https://ncatlab.org/nlab/show/type+theory)
+- [[EN: Text] learn-tt (jozefg - Github)](https://github.com/jozefg/learn-tt)
 - [[EN: Text] Type Theory & Functional Programming (Simon Thompson, Computing Laboratory, University of Kent)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [[EN: Text] A Brief Introduction to Type Theory and The Univalence Axiom (Jackson Macor)](https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf)
 - [[EN: Text] Propositions as Types (Philip Wadler, University of Edinburgh)](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
@@ -83,7 +84,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Lectures on the Curry-Howard Isomorphism (Morten Heine B.Sorensen - University of Copenhagen, Pawel Urzyczyn - University of Warsaw)](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 - [[EN: Text] Curry-Howard Correspondence (Wikipedia)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 - [[EN: Text] Curry-Howard Correspondence (Giselle Reis - Carnegie Mellon University)](https://web2.qatar.cmu.edu/cs/15317/lectures/04-curryhoward.pdf)
-- [[EN: Text] The Curry-Howard Isomorphism (Dan Grossman, University of Washington)](https://homes.cs.washington.edu/~djg/2011sp/lec12_6up.pdf)
+- [[EN: Text] The Curry-Howard Isomorphism (Dan Grossman - University of Washington)](https://homes.cs.washington.edu/~djg/2011sp/lec12_6up.pdf)
 - [[EN: Video Playlist] Functional Programming - Type Theory (Hans Schenker)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDEsk6l0KnDWB3_rUS0FR7x)
 - [[EN: Video] Why should you learn Type Theory? (Dapper Mink)](https://www.youtube.com/watch?v=QRrcwahx-3s)
 - [[EN: Video] Computer Science ∩ Mathematics (Type Theory) (Computerphile)](https://www.youtube.com/watch?v=qT8NyyRgLDQ)
@@ -223,6 +224,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Why OCaml (Jane Street)](https://www.youtube.com/watch?v=v1CmGbOGb2I)
 - [[EN: Video] [Programming Languages] Episode 8 - First Impression - ocaml (Mike Shah)](https://www.youtube.com/watch?v=Aa5b6Y8NvGQ)
 - [[EN: Video] Elegance in OCaml with TJ DeVries | Backend Banter 001 (Backend Banter)](https://www.youtube.com/watch?v=vpxbVWpN598)
+- [[EN: Video] [OCaML'23] State of the OCaml Platform 2023 (ACM SIGPLAN)](https://www.youtube.com/watch?v=i4ZQ2EGI8sY)
 
 ### [Javascript](https://nodejs.org/en) / [Typescript](https://www.typescriptlang.org/)
 

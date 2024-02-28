@@ -5,7 +5,7 @@
 This is a repository for learning the topics of Functional Programming and Related Topics (Lambda Calculus, Abstract Algebra, Category Theory, etc.)
 It contains Resource List, Lecture Note (Text File) and Code by Functional Programming Languages (Haskell, Clojure, Elixir, F#, Javascript / Typescript, Racket, etc.).
 
-## Concept
+## Pure Mathematics Concept
 
 ### [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 
@@ -57,6 +57,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Category Theory For Beginners (Richard Southwell)](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)
 - [[EN: Video Playlist] Category Theory (Undergraduate Mathematics)](https://www.youtube.com/playlist?list=PLoWHl5YajIf6I5OzWx-hwc5uWCvM99jFw)
 - [[EN: Video Playlist] Category theory foundations - Steve Awodey (Mathématiques et programmation)](https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb)
+- [[EN: Video Playlist] Chris Brav. An Introduction to the Theory of Categories and Homological Algebra (Mathematics at HSE)](https://www.youtube.com/playlist?list=PLq3E5oubNNoDvtHJK16DBbPS5KEJgDdX2)
 - [[EN: Video] A monad is a monoid in the category of endofunctors. Whats the problem? (A Byte of Code)](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
 - [[EN: Video] A Sensible Introduction to Category Theory (Oliver Lugg)](https://www.youtube.com/watch?v=yAi3XWCBkDo)
 - [[EN: Video] 27 Unhelpful Facts About Category Theory (Oliver Lugg)](https://www.youtube.com/watch?v=H0Ek86IH-3Y)
@@ -237,3 +238,20 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Functional Programming with Typescript (theJavaScriptCoder)](https://www.youtube.com/playlist?list=PL3g439-h6tRKqCGj898Nthe8E-fsHqPwt)
 - [[EN: Video] Object Oriented vs Functional Programming with TypeScript (Fireship)](https://www.youtube.com/watch?v=fsVL_xrYO0w)
 - [[EN: Video] Learn Functional Programming With Javascript | FREE COURSE](https://www.youtube.com/watch?v=XvLMO2wE3OQ)
+
+## Additional Topics
+
+### [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
+
+### [Propositional Logic (Zeroth-Order Logic)](https://en.wikipedia.org/wiki/Propositional_calculus)
+
+### [Predicate Logic (First-Order Logic)](https://en.wikipedia.org/wiki/First-order_logic)
+
+### [Higher-Order Logic](https://en.wikipedia.org/wiki/Higher-order_logic)
+
+### [Homological Algebra](https://en.wikipedia.org/wiki/Homological_algebra)
+
+- [[EN: Video Playlist] Homological Algebra (Undergraduate Mathematics)](https://www.youtube.com/playlist?list=PLoWHl5YajIf4BG--5KS_VnI00vSh1R-cO)
+- [[EN: Video Playlist] Modules and Homological Algebra (Uppsala Algebra)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8RSDinUIj4kk09pnGNrVKfR)
+- [[EN: Video Playlist] Homological Algebra (Harpreet Bedi)](https://www.youtube.com/playlist?list=PLCgncMh0TrCmqr36zCc6I96EhPwAt3ZVh)
+- [[EN: Video Playlist] Introduction to Homological Algebra (Richard E Borcherds)](https://www.youtube.com/playlist?list=PL8yHsr3EFj53tlhAM-Zf0pRKNB541ZTi2)

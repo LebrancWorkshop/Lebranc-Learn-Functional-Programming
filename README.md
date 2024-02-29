@@ -31,6 +31,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Lambda Calculus (Truttle1)](https://www.youtube.com/watch?v=RsO_sfHtXCM)
 - [[EN: Video] Lambda Calculus: The foundation of functional programming, and the simplest programming language (Tony Zhang)](https://www.youtube.com/watch?v=_n4LIt2WPzE)
 - [[EN: Video] What is Lambda Calculus and why? (Yana the Contrarian)](https://www.youtube.com/watch?v=z5ReaU4npoE)
+- [[EN: Video] Lambda Calculus vs. Turing Machine (Theory of Computation) (Advait Shinde)](https://www.youtube.com/watch?v=ruOnPmI_40g)
 
 ### [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 

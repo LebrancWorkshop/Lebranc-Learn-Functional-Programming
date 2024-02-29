@@ -245,7 +245,12 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 ### [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
 
+- [[EN: Video] Axiom of Set Theory - Lec 02 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=AAJB9l-HAZs)
+- [[EN: Video] Classification of Sets - Lec 03 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=6EIWRg-6ftQ)
+
 ### [Propositional Logic (Zeroth-Order Logic)](https://en.wikipedia.org/wiki/Propositional_calculus)
+
+- [[EN: Video] Introduction/Logic of Propositions and Predicates - 01 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=V49i_LM8B0E)
 
 ### [Predicate Logic (First-Order Logic)](https://en.wikipedia.org/wiki/First-order_logic)
 

@@ -27,6 +27,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Why function are turing complete (Lambda Calculas) (A Byte of Code)](https://www.youtube.com/watch?v=m32kbFXBRR0)
 - [[EN: Video] A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II (Gabriel Lebec)](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
 - [[EN: Video] Lambda Calculus (Computerphile)](https://www.youtube.com/watch?v=eis11j_iGMs)
+- [[EN: Video] What is Lambda Calculus? (ft. Church Encodings) (Alex Lugo)](https://www.youtube.com/watch?v=d0yEXKas8xE)
 - [[EN: Video] Lambda Calculus (Truttle1)](https://www.youtube.com/watch?v=RsO_sfHtXCM)
 - [[EN: Video] Lambda Calculus: The foundation of functional programming, and the simplest programming language (Tony Zhang)](https://www.youtube.com/watch?v=_n4LIt2WPzE)
 - [[EN: Video] What is Lambda Calculus and why? (Yana the Contrarian)](https://www.youtube.com/watch?v=z5ReaU4npoE)

@@ -16,6 +16,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction (dkeenan.com)](https://dkeenan.com/Lambda/)
 - [[EN: Text] A Tutorial Introduction to the Lambda Calculus (Raúl Rojas)](https://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 - [[EN: Text] Lambda Calculus (Alex Aiken)](https://web.stanford.edu/class/cs242/materials/lectures/lecture04.pdf)
+- [[EN: Text] Computational Lambda-Calculus and Monads (Eugenio Moggi - University of Edinburgh)](https://www.cs.cmu.edu/~crary/819-f09/Moggi89.pdf)
 - [[EN: Text] Lambda Calculus in Javascript (Michele Riva)](https://medium.com/openmindonline/lambda-calculus-in-javascript-1ee947cadb21)
 - [[EN: Text] Implementing Recursion with the Y-Combinator in any Language (Michele Riva)](https://levelup.gitconnected.com/implementing-recursion-with-the-y-combinator-in-any-language-9e83fa369ca)
 - [[EN: Text] Fixed Points (Oscar Nierstrasz)](https://scg.unibe.ch/download/lectures/pl/PL-06FixPoints.pdf)
@@ -120,6 +121,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
 - [[TH: Video] Functional Programming กับพี่รูฟ ODDS (Datarockie)](https://www.youtube.com/watch?v=r6_Sg-SQmng)
 - [[EN: Text] Functional Programming resources I’ve found useful (I'Boss Potiwarakorn)](https://iboss.medium.com/functional-programming-resources-ive-found-useful-ce25b2279eb7)
+- [[EN: Text] Monads for Functional Programming (Philip Wadler - University of Glasgow)](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - [[EN: Text] SOLID: the next step is Functional (blog.ploeh.dk)](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [[EN: Video] What is a Monad? (Computerphile)](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
@@ -239,7 +241,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video] Object Oriented vs Functional Programming with TypeScript (Fireship)](https://www.youtube.com/watch?v=fsVL_xrYO0w)
 - [[EN: Video] Learn Functional Programming With Javascript | FREE COURSE](https://www.youtube.com/watch?v=XvLMO2wE3OQ)
 
-## Additional Topics
+## Additional or Interesting Topics
 
 ### [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
 

@@ -36,6 +36,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
 - [[TH: Text] พีชคณิตนามธรรม (Abstract Algebra) (สาขาิชาคณิตศาสตร์ คณะครุศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา)](https://eledu.ssru.ac.th/thanatyod_ja/pluginfile.php/48/block_html/content/Handoutพีชคณิตนามธรรม2564.pdf?fbclid=IwAR0tmufyOxo6gVmZANwwv01blVRcs5lnqTGItXSJ7jPmk6qBKxG0HOa0hBQ)
+- [[TH: Video] Algebraic structure :: the power of mathematical abstraction by Natechawin Suthison (Creatorsgarten)](https://www.youtube.com/watch?v=F5_17LqLmU4)
 - [[EN: Text] Introduction to Abstract Algebra - Math 113 (Alexander Paulin, University of California Berkeley)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf?fbclid=IwAR1LW3K6cIfvdss9w3qSd7WWBj8JpuQJhm-acnW2dZVjA1F4FApwQ6bQgSQ)
 - [[EN: Video Playlist] Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 - [[EN: Video Playlist] Abstract Algebra 1 (Learnifyable)](https://www.youtube.com/playlist?list=PLg8ZEeSiXsjgoQJzRcq60GjK0UrkMsA3-)
@@ -49,6 +50,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] Category Theory (for Programmer!) 2: Functor~คืออะไร (tamemo.com)](https://www.tamemo.com/post/155/category-theory-2/)
 - [[TH: Text] Category และ Product | Category Theory for Programming Part 1 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-1-product/)
 - [[TH: Text] Co-Product ในการเขียนโปรแกรม | Category Theory for Programming Part 2 (muitsfriday.dev)](https://www.muitsfriday.dev/post/category-theory-2-coproduct/)
+- [[TH: Video] Tortilla endofunctors, and more jokes about monads by Chayapatr Archiwaranguprok (Creatorsgarten)](https://www.youtube.com/watch?v=JGmWEAuaj2s)
 - [[EN: Text] Category Theory for Programmers (Bartosz Milewski)](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [[EN: Text] Category Theory (nLab)](https://ncatlab.org/nlab/show/category+theory)
 - [[EN: Text] Category (nLab)](https://ncatlab.org/nlab/show/category)
@@ -121,7 +123,9 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[TH: Text] FP(06): Recursive Function ฟังก์ชันเวียนเกิด, เขียนลูปไม่ได้ทำยังไง? มาเขียนฟังก์ชันเรียกตัวเองแทนกันเถอะ! (tamemo.com)](https://www.tamemo.com/post/163/fp-06-recursive-function/)
 - [[TH: Text] มารู้จักกับ Functional Programming สิ่งที่คุณต้องรู้ในตอนนี้กันเถอะ (tamemo.com)](https://www.tamemo.com/post/80/functional-programming-should-be-your/)
 - [[TH: Text] Function ทำงานยังไง?, ในมุมมองของโปรแกรมเมอร์สาย Imperative (tamemo.com)](https://www.tamemo.com/post/152/how-function-work/)
+- [[TH: Video Playlist] Functional Programming Meetup #1 (Creatorsgarten)](https://www.youtube.com/playlist?list=PLTuz2sLvbRpwx_OwSnTh4tb_RpO3jo39L)
 - [[TH: Video] Functional Programming กับพี่รูฟ ODDS (Datarockie)](https://www.youtube.com/watch?v=r6_Sg-SQmng)
+- [[TH: Video] Practical guide to functional problem solving and design by Chakrit Riddghani (Creatorsgarten)](https://www.youtube.com/watch?v=xCyRAH2X9FQ)
 - [[EN: Text] Functional Programming resources I’ve found useful (I'Boss Potiwarakorn)](https://iboss.medium.com/functional-programming-resources-ive-found-useful-ce25b2279eb7)
 - [[EN: Text] Monads for Functional Programming (Philip Wadler - University of Glasgow)](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - [[EN: Text] SOLID: the next step is Functional (blog.ploeh.dk)](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
@@ -249,12 +253,15 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 
 - [[EN: Video] Axiom of Set Theory - Lec 02 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=AAJB9l-HAZs)
 - [[EN: Video] Classification of Sets - Lec 03 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=6EIWRg-6ftQ)
+- [[EN: Video] The unsolvable problem that launched a revolution in Set Theory (Aleph 0)](https://www.youtube.com/watch?v=neYulXSt7Tc)
 
 ### [Propositional Logic (Zeroth-Order Logic)](https://en.wikipedia.org/wiki/Propositional_calculus)
 
 - [[EN: Video] Introduction/Logic of Propositions and Predicates - 01 - Frederic Schuller (Frederic Schuller)](https://www.youtube.com/watch?v=V49i_LM8B0E)
 
 ### [Predicate Logic (First-Order Logic)](https://en.wikipedia.org/wiki/First-order_logic)
+
+- [[EN: Text] First-Order Logic in Artificial Intelligence (JavatPoint)](https://www.javatpoint.com/first-order-logic-in-artificial-intelligence)
 
 ### [Higher-Order Logic](https://en.wikipedia.org/wiki/Higher-order_logic)
 

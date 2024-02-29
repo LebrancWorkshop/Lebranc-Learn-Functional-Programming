@@ -172,6 +172,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Scala](https://www.scala-lang.org/)
 
 - [[EN: Text] Scala Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/scala)
+- [[EN: Text] Introduction to Category Theory in Scala (hseeberger.wordpress.com)](https://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/)
 - [[EN: Video Playlist] Scala at Light Speed (Rock the JVM)](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 - [[EN: Video Playlist] Scala Tutorial (ProgrammingKnowledge)](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
 - [[EN: Video Playlist] Scala Tutorial (Learning Journal)](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)

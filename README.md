@@ -130,6 +130,15 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Text] Monads for Functional Programming (Philip Wadler - University of Glasgow)](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - [[EN: Text] SOLID: the next step is Functional (blog.ploeh.dk)](https://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/)
 - [[EN: Video] What is a Monad? (Computerphile)](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+- [[EN: Video] Okay but WTF is a MONAD?????? #SoME2 (TheSTEMGamer)](https://www.youtube.com/watch?v=-fKAh4PVKbU)
+- [[EN: Video] What the Heck Are Monads?! (ArjanCodes)](https://www.youtube.com/watch?v=Q0aVbqim5pE)
+- [[EN: Video] The Monad Problem (Antoine Leblanc)](https://www.youtube.com/watch?v=LekhueQ4zVU)
+- [[EN: Video] What is a Monad? (Andy Balaam)](https://www.youtube.com/watch?v=15F3aXMtlqo)
+- [[EN: Video] Understand Monads in 5 Minutes (Intuitive Devs)](https://www.youtube.com/watch?v=jMDRlBy8VDw)
+- [[EN: Video] What is a Monad? - The Last Monad Intro You'll Ever Need (JamesKool)](https://www.youtube.com/watch?v=HIBTu-y-Jwk)
+- [[EN: Video] Dear Functional Bros (CodeAesthetic)](https://www.youtube.com/watch?v=nuML9SmdbJ4)
+- [[EN: Video] How Monoids are useful in Programming (Tsoding)](https://www.youtube.com/watch?v=BovTQeDK7XI)
+- [[EN: Video] Ditch your Favorite Programming Paradigm (Code Persist)](https://www.youtube.com/watch?v=UOkOA6W-vwc)
 
 ## [Functional Programming Language](https://en.wikipedia.org/wiki/Category:Functional_languages)
 

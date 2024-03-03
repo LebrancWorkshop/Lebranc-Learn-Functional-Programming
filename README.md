@@ -43,6 +43,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Abstract Algebra (Michael Penn)](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
 - [[EN: Video Playlist] Abstract Algebra (MathMajor)](https://www.youtube.com/playlist?list=PLVMgvCDIRy1y4JFpnpzEQZ0gRwr-sPTpw)
 - [[EN: Video Playlist] Abstract Algebra (Wrath of Math)](https://www.youtube.com/playlist?list=PLztBpqftvzxVvdVmBMSM4PVeOsE5w1NnN)
+- [[EN: Video Playlist] Essence of Group Theory (Mathemaniac)](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 
 ### [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 

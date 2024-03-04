@@ -36,6 +36,7 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 ### [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
 - [[TH: Text] พีชคณิตนามธรรม (Abstract Algebra) (สาขาิชาคณิตศาสตร์ คณะครุศาสตร์ มหาวิทยาลัยราชภัฏสวนสุนันทา)](https://eledu.ssru.ac.th/thanatyod_ja/pluginfile.php/48/block_html/content/Handoutพีชคณิตนามธรรม2564.pdf?fbclid=IwAR0tmufyOxo6gVmZANwwv01blVRcs5lnqTGItXSJ7jPmk6qBKxG0HOa0hBQ)
+- [[TH: Video Playlist] พีชคณิตนามธรรม (Sarawut Suwannaut)](https://www.youtube.com/playlist?list=PLeZcJGeZNQEW2ng-fZxLy_EMlZRiaX_pp)
 - [[TH: Video] Algebraic structure :: the power of mathematical abstraction by Natechawin Suthison (Creatorsgarten)](https://www.youtube.com/watch?v=F5_17LqLmU4)
 - [[EN: Text] Introduction to Abstract Algebra - Math 113 (Alexander Paulin, University of California Berkeley)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf?fbclid=IwAR1LW3K6cIfvdss9w3qSd7WWBj8JpuQJhm-acnW2dZVjA1F4FApwQ6bQgSQ)
 - [[EN: Video Playlist] Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)

@@ -286,3 +286,5 @@ It contains Resource List, Lecture Note (Text File) and Code by Functional Progr
 - [[EN: Video Playlist] Modules and Homological Algebra (Uppsala Algebra)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8RSDinUIj4kk09pnGNrVKfR)
 - [[EN: Video Playlist] Homological Algebra (Harpreet Bedi)](https://www.youtube.com/playlist?list=PLCgncMh0TrCmqr36zCc6I96EhPwAt3ZVh)
 - [[EN: Video Playlist] Introduction to Homological Algebra (Richard E Borcherds)](https://www.youtube.com/playlist?list=PL8yHsr3EFj53tlhAM-Zf0pRKNB541ZTi2)
+
+### [Homotopy Theory](https://en.wikipedia.org/wiki/Homotopy_theory)

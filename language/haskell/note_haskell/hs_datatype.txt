@@ -1,0 +1,6 @@
+Haskell - Data Type
+- Bool: Logical Values
+- Char: Single Characters
+- String: Strings of Characters
+- Int: Integer Numbers
+- Float: Floating-Point Numbers 

@@ -1,0 +1,7 @@
+Proposition => Type
+True => Unit Type
+False => Empty Type
+AND (Conjunction) => Product Type
+OR (Disjunction) => Sum Type
+IF_THEN (Implication) => Function Type
+

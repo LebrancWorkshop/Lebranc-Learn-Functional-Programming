@@ -67,4 +67,4 @@ const nul = p => p(x => y => Fs); // Null
 
 
 // Application
-console.log(toNum(n1));
+console.log(toNum(succ(n1)));

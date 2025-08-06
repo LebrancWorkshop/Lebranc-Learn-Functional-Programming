@@ -1,9 +1,8 @@
-add :: Int -> Int -> Int
-add num1 num2 = num1 + num2
+factorial :: Integer -> Integer
+factorial 1 = 1
+factorial n = n * factorial(n - 1)
 
-main :: IO ()
+main :: IO()
 
-main  = do
-  let result = add 9 9
-  print result
-
+main = do
+  print(factorial 3)

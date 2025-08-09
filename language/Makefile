@@ -1,0 +1,2 @@
+haskell:
+	cd language/haskell
